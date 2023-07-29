@@ -3,5 +3,6 @@ Design, Linearize, Trim, and Implementation of Pitch Rate Controller for DeHavil
 Credit: https://www.youtube.com/watch?v=FSDB5Gn9hts 
 
 # DeHavilland Beaver Airframe Model
-![beaver](https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/5ae1ef28-9cbb-440f-aabe-c87726be45f8)
+![aeroplano-659310_1280 (1)](https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/197bbc4e-f2ed-4176-a085-b1d2a10f35be)
+
 

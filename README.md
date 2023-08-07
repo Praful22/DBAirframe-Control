@@ -25,7 +25,9 @@ Pilot subsystem consists of four Inports which are the four control parameters t
 
 <img width="1426" alt="Screenshot 2023-08-05 at 2 56 44 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/c33564a9-a244-43fb-a37c-af8730c1b8c8">
 
-The Inports are described below:
+# Pilot Subsytem:
+Pilot subsystem consists of four inports which are the four control parameters that pilot (or autopilot) can vary depending upon necesarry situations.
+The inports are described below:
 1. Aileron : 
 2. Elevator :
 3. Rudder :

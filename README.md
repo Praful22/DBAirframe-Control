@@ -30,7 +30,7 @@ The inports are described below:
 4. Throttle :
 
 # Environment Subsystem: 
-The environment subsystem consists of major environment parameters that affects the DHV aircraft on flight. They are shear force due to air, drag, and wind profile depending upon height of the aircraft.
+The environment subsystem consists of major environment parameters that affects the DHV aircraft on flight. They are shear force due to air, drag, and wind profile depending upon the height at which the aircraft is flying.
 <img width="1426" alt="Screenshot 2023-08-05 at 2 57 45 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/d59bfcf6-ab8a-46c7-b7f6-5197d3c0c518">
 
 1. WGS84 gravity Model

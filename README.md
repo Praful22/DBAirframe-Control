@@ -18,6 +18,7 @@ The model shown above for Dehavilland aircraft control consists of three major s
 3. Dehavilland Beaver Airframe (Vehicle-related Parameters and Aircraft Dynamics)
 
 
+<<<<<<< HEAD
 The control inputs to the aircraft are modeled using the Pilot subsystem whereas the environmental effect that an aircraft observes is modeled as the environment subsystem.
 
 # Pilot Subsystem:
@@ -25,11 +26,16 @@ Pilot subsystem consists of four Inports which are the four control parameters t
 
 <img width="1426" alt="Screenshot 2023-08-05 at 2 56 44 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/c33564a9-a244-43fb-a37c-af8730c1b8c8">
 
+The Inports are described below:
+1. Aileron : 
+2. Elevator :
+=======
 # Pilot Subsytem:
 Pilot subsystem consists of four inports which are the four control parameters that pilot (or autopilot) can vary depending upon necesarry situations.
 The inports are described below:
-1. Aileron : 
-2. Elevator :
+1. Aileron : Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the airplane to roll.
+2. Elevator : 
+>>>>>>> 50a2460 (Added drawing.)
 3. Rudder :
 4. Throttle :
 

@@ -32,11 +32,11 @@ The Inports are described below:
 # Pilot Subsytem:
 Pilot subsystem consists of four inports which are the four control parameters that pilot (or autopilot) can vary depending upon necesarry situations.
 The inports are described below:
-* Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the **airplane to roll.**
+1. Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the **airplane to roll.**
 <img width="1426" alt="Wing Components Drawing" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5880.jpg"> 
-* Elevator : 
-* Rudder :
-* Throttle :
+2. Elevator : 
+3. Rudder :
+4. Throttle :
 
 # Environment Subsystem: 
 The environment subsystem consists of major environment parameters that affects the DHV aircraft on flight. They are shear force due to air, drag, and wind profile depending upon height of the aircraft.

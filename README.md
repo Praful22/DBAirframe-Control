@@ -25,7 +25,7 @@ Pilot subsystem consists of four Inports which are the four control parameters t
 
 The inports are described below:
 1. Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the **airplane to roll.** <img width="1426" alt="Wing Components Drawing" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5880.jpg">
-2. Elevator:
+2. Elevator: 
 3. Rudder :
 4. Throttle :
 
@@ -43,9 +43,10 @@ The environment subsystem consists of major environment parameters that affects 
 2. Dryden Wind Turbulence Model :
 3. Discrete Wind Gust Model :
 
-# DeHavilland Beaver Airframe Breakdown:
-The Airframe of DeHavilland Beaver 
+# DeHavilland Beaver's Dynamics and Parameters Breakdown:
+DeHavilland Beaver's Dynamics and Parameters
 <img width="1426" alt="Screenshot 2023-08-05 at 3 00 04 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/4dfe1d23-cf98-4cbf-8e72-b3ced17885e6">
 
 ## Parameter Calculation
+
 ## Aircraft Dynamics

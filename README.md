@@ -6,9 +6,11 @@ Credit: https://www.youtube.com/watch?v=FSDB5Gn9hts
 # DeHavilland Beaver with a float landing gear
 ![aeroplano-659310_1280 (1)](https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/197bbc4e-f2ed-4176-a085-b1d2a10f35be)
 
+# Aircraft Components Breakdown
+<img width="894" alt="SketchAircraft" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5903.jpg">
+
 # Dehavilland Beaver Aircraft Simulink Model
 <img width="894" alt="DehavillandModel" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/b37fb716-b748-4682-a3e0-890fbcdbf2dd">
-<img width="894" alt="SketchAircraft" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5903.jpg">
 
 # Break Down of DeHavilland Beaver Aircraft Model
 The model shown above for Dehavilland aircraft control consists of three major subsystems. They are listed below:

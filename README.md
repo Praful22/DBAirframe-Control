@@ -25,9 +25,13 @@ Pilot subsystem consists of four Inports which are the four control parameters t
 
 The inports are described below:
 1. Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the **airplane to roll.** <img width="1426" alt="Wing Components Drawing" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5880.jpg">
-2. Elevator: 
-<img width="1426" alt="Empennage Components" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5899.jpg">
-3. Rudder :
+
+2. Elevator: The component of empennage system which is attached to the back of the horizontal stabilizer and is used to move the nose of the airplane up and down during flight.
+
+3. Rudder: The component of the empennage system which is  attached to the back of the vertical stabilizer and is used to move the airplane's nose left and right during flight.
+
+<img width="1426" alt="Empennage Components" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5899.jpg" caption="Empennage System">
+
 4. Throttle :
 
 # Environment Subsystem: 

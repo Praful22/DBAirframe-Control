@@ -58,3 +58,4 @@ DeHavilland Beaver's Dynamics and Parameters
 ## Parameter Calculation
 
 ## Aircraft Dynamics
+<img width="1426" alt="Aircraft Dynamics" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/6DOFEOM.png">

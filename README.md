@@ -42,13 +42,9 @@ The environment subsystem consists of major environment parameters that affect t
 <img width="1426" alt="Screenshot 2023-08-05 at 2 57 45 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/d59bfcf6-ab8a-46c7-b7f6-5197d3c0c518">
 
 1. WGS84 gravity Model: The WGS84 gravity model is derived from World System Geodesic 84 model which models the earth as an oblate spheroid (see picture below taken from Wikipedia).
-2. 
-
-
-3. COESA Atmosphere Model: 
-
-
-4. Wind Models: The wind models need separate and thorough introductions and descriptions so they are broken down into respective models below.
+<img width="800" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/WGS84reference.png" caption="Oblate Spheroid">
+2. COESA Atmosphere Model:
+3. Wind Models: The wind models need separate and thorough introductions and descriptions so they are broken down into respective models below.
 
 ## Wind Models breakdown:
 

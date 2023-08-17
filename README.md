@@ -27,9 +27,9 @@ Pilot subsystem consists of four Inports which are the four control parameters t
 <img width="1426" alt="Screenshot 2023-08-05 at 2 56 44 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/c33564a9-a244-43fb-a37c-af8730c1b8c8">
 
 The inports are described below:
-1. Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and move in opposite directions to create aerodynamic forces that cause the **airplane to roll.** <img width="1426" alt="Wing Components Drawing" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5880.jpg">
+1. Aileron: Control surface that extends from about the midpoint of each wing outward toward the tip, and moves in opposite directions to create aerodynamic forces that cause the **airplane to roll.** <img width="1426" alt="Wing Components Drawing" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/IMG_5880.jpg">
 
-2. Elevator: The component of empennage system which is attached to the back of the horizontal stabilizer and is used to move the nose of the airplane up and down during flight.
+2. Elevator: The component of the empennage system which is attached to the back of the horizontal stabilizer and is used to move the nose of the airplane up and down during flight.
 
 3. Rudder: The component of the empennage system which is  attached to the back of the vertical stabilizer and is used to move the airplane's nose left and right during flight.
 
@@ -38,12 +38,16 @@ The inports are described below:
 4. Throttle :
 
 # Environment Subsystem: 
-The environment subsystem consists of major environment parameters that affects the DHV aircraft on flight. They are shear force due to air, drag, and wind profile depending upon the height at which the aircraft is flying.
+The environment subsystem consists of major environment parameters that affect the DHV aircraft on the flight. They are shear forces due to air, drag, and wind profiles depending upon the height at which the aircraft is flying.
 <img width="1426" alt="Screenshot 2023-08-05 at 2 57 45 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/d59bfcf6-ab8a-46c7-b7f6-5197d3c0c518">
 
-1. WGS84 gravity Model
-2. COESA Atmosphere Model
-3. Wind Models 
+1. WGS84 gravity Model: The WGS84 gravity model is derived from World System Geodesic 84 model which models the earth as an oblate (see picture below taken from Wikipedia).
+
+
+2. COESA Atmosphere Model: 
+
+
+3. Wind Models: The wind models need separate and thorough introductions and descriptions so they are broken down into respective models below.
 
 ## Wind Models breakdown:
 

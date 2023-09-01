@@ -59,6 +59,8 @@ The environment subsystem consists of major environment parameters that affect t
 # DeHavilland Beaver's Dynamics and Parameters Breakdown:
 DeHavilland Beaver's Dynamics and Parameters
 <img width="1426" alt="Screenshot 2023-08-05 at 3 00 04 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/4dfe1d23-cf98-4cbf-8e72-b3ced17885e6">
+A basic to advanced explanation right here: https://github.com/Praful22/AircraftFlightDynamics
+
 
 ## Parameter Calculation
 

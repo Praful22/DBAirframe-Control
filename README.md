@@ -50,9 +50,11 @@ The environment subsystem consists of major environment parameters that affect t
 
 ## Wind Models breakdown:
 
-1. Wind Shear Model :
-2. Dryden Wind Turbulence Model :
-3. Discrete Wind Gust Model :
+1. Wind Shear Model: The model block is a mathematical representation of shear (given altitude(h) and Direction Cosine Matrix(DCM)) wind in Military Specification MIL-F-8785C.
+
+2. Dryden Wind Turbulence Model: The Dryden model is a mathematical model of continuous gusts that treats the linear and angular velocity components of continuous gusts as spatially varying stochastic processes and specifies each component's power spectral density. More at https://www.mathworks.com/help/aeroblks/drydenwindturbulencemodelcontinuous.html 
+
+3. Discrete Wind Gust Model: 
 
 # DeHavilland Beaver's Dynamics and Parameters Breakdown:
 DeHavilland Beaver's Dynamics and Parameters

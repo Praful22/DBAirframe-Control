@@ -41,10 +41,10 @@ The inports are described below:
 The environment subsystem consists of major environment parameters that affect the DHV aircraft on the flight. They are shear forces due to air, drag, and wind profiles depending upon the height at which the aircraft is flying.
 <img width="1426" alt="Screenshot 2023-08-05 at 2 57 45 PM" src="https://github.com/Praful22/Modified-DBAirframe-Control/assets/65821250/d59bfcf6-ab8a-46c7-b7f6-5197d3c0c518">
 
-1. WGS84 gravity Model: The WGS84 gravity model is derived from World System Geodesic 84 model which models the earth as an oblate spheroid (see picture below taken from Wikipedia). The model block takes position in geodesic latitude, longitude, and height and outputs the gravitational acceleration.
+1. WGS84 gravity Model: The WGS84 gravity model is derived from the World System Geodesic 84 model which models the earth as an oblate spheroid (see picture below taken from Wikipedia). The model block takes position in geodesic latitude, longitude, and height and outputs the gravitational acceleration.
 <img width="800" src="https://github.com/Praful22/Modified-DBAirframe-Control/blob/main/WGS84reference.png" caption="Oblate Spheroid">
 
-2. COESA Atmosphere Model:
+2. COESA Atmosphere Model: The COESA Atmosphere Model block is the mathematical representation of the 1976 Committee on Extension to the Standard Atmosphere (COESA) United States standard lower atmospheric(11-12 miles (18-20 km) high at the equator, 5½ miles (9 km) at 50°N and 50°S, and just under four miles (6 km) high at the poles.) values for absolute temperature, pressure, density, and speed of sound for the input geopotential altitude.
 
 3. Wind Models: The wind models need separate and thorough introductions and descriptions so they are broken down into respective models below.
 
